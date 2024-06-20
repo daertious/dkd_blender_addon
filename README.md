@@ -13,3 +13,12 @@ Works with animation in Object Mode and Pose Mode.
 ## Video
 
  - [Delete Keyframes Distance (DKD) - Blender Addon, Youtube Video](https://www.youtube.com/watch?v=t7VBE0cP_2U)
+
+
+## Installation
+
+Install DKD with Blender
+
+```bash
+  Edit -> Preferences -> Add-ons -> Install -> (Select .py file)
+```
